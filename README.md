@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently trying to build a new business in Mexico 🤞🇲🇽
-- 🌱 I’m currently learning [Rust](https://github.com/rust-lang/rust)
-- 👯 I’m looking to collaborate on my new projects (America/Europe timezones)
-- 🤔 I’m looking for help with setting up [Bazel](https://github.com/bazelbuild/bazel) for [`adeira/universe`](https://github.com/adeira/universe) monorepo
+- 🔭 I’m currently building a new business in Mexico 🤞🇲🇽
+- 🌱 I’m currently learning [Rust](https://github.com/rust-lang/rust) and I love it!
+- 👯 I’m looking to collaborate on my new projects (America/Europe timezones), would you like to know more?
+- 🤔 I’m looking for help with shipping products between Mexico and Europe. Let me know! 📦
+- 💬 Ask me about anything related to science and education.
 - 📫 How to reach me: `mrtnzlml+github@gmail.com`
 
 <!--
