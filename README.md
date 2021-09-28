@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently living in Mexico 🇲🇽 but I am originally from Czech Republic 🇨🇿
-- 🌱 I’m learning [Rust](https://github.com/rust-lang/rust) and I love it!
+- 🌱 I’m currently living in Mexico 🇲🇽 but I am originally from Czech Republic 🇨🇿
+- 🦀 I’m learning [Rust](https://github.com/rust-lang/rust) and I love it!
 - 🚄 I have a weakness for FB OSS projects like [React](https://github.com/facebook/react), [Flow](https://github.com/facebook/flow), [Relay](https://github.com/facebook/relay), and [Fbt](https://github.com/facebook/fbt)
+- 🤓 I enjoy sharing my ideas as open-source in [Adeira](https://github.com/adeira) organization
 - 📫 How to reach me: `mrtnzlml+github@gmail.com`
 
 ![Mrtnzlml's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrtnzlml&count_private=true&show_icons=true&hide_title=true)
