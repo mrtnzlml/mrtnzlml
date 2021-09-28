@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently building a new business in Mexico 🤞🇲🇽
-- 🌱 I’m currently learning [Rust](https://github.com/rust-lang/rust) and I love it!
-- 👯 I’m looking to collaborate on my new projects (America/Europe timezones), would you like to know more?
-- 🤔 I’m looking for help with shipping products between Mexico and Europe. Let me know! 📦
-- 💬 Ask me about anything related to science and education.
+- 🔭 I’m currently living in Mexico 🇲🇽 but I am originally from Czech Republic 🇨🇿
+- 🌱 I’m learning [Rust](https://github.com/rust-lang/rust) and I love it!
+- 🚄 I have a weakness for FB OSS projects like [React](https://github.com/facebook/react), [Flow](https://github.com/facebook/flow), [Relay](https://github.com/facebook/relay), and [Fbt](https://github.com/facebook/fbt)
 - 📫 How to reach me: `mrtnzlml+github@gmail.com`
+
+![Mrtnzlml's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrtnzlml&count_private=true&show_icons=true&hide_title=true)
 
 <!--
 **mrtnzlml/mrtnzlml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
