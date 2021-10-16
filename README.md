@@ -10,7 +10,7 @@
 ### Upcoming talks 🗣️
 
 - 2021-Oct-16 [React Conf Brasil 2021](https://reactconf.com.br/) Translate your React apps like Facebook engineers 🇬🇧 [[DEMO](https://github.com/adeira/universe/pull/3303)] [[🔴 LIVE STREAM](https://youtu.be/g7nyrdwRIFc)]
-- 2021-Oct-30 [#posobota](https://www.posobota.cz/stream) Překládej své React aplikace jako inženýr z FB 🇨🇿
+- 2021-Oct-30 [#posobota](https://www.posobota.cz/stream) Překládej své React aplikace jako inženýr z FB 🇨🇿 [[STREAM](https://www.posobota.cz/stream)]
 
 ---
 
