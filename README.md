@@ -7,11 +7,11 @@
 - ✍️ In my free time I write [mrtnzlml.com](https://mrtnzlml.com/)
 - 📫 How to reach me: `mrtnzlml+github@gmail.com`
 
-### Upcoming talks 🗣️
+### Upcoming talk 🗣️
 
 - 2021-Oct-30 [#posobota](https://www.posobota.cz/stream) Překládej své React aplikace jako inženýr z FB 🇨🇿 [[STREAM](https://www.posobota.cz/stream)]
 
-### Latest talks 🗣️
+### Latest talk 🗣️
 
 - [React Conf Brasil 2021](https://reactconf.com.br/) Translate your React apps like Facebook engineers 🇬🇧 [[DEMO](https://github.com/adeira/universe/pull/3303)] [[STREAM](https://youtu.be/g7nyrdwRIFc)] [[VIDEO](https://youtu.be/wHUKA6lLOHQ)]
 
