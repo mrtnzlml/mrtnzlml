@@ -9,7 +9,7 @@
 
 ### Upcoming talk 🗣️
 
-- 2021-Oct-30 [#posobota](https://www.posobota.cz/stream) Překládej své React aplikace jako inženýr z FB 🇨🇿 [[STREAM](https://www.posobota.cz/stream)]
+- 2021-Oct-30 [#posobota](https://www.posobota.cz/stream) Překládej své React aplikace jako inženýr z FB 🇨🇿 [DEMO] [[STREAM](https://www.posobota.cz/stream)] [VIDEO]
 
 ### Latest talk 🗣️
 
