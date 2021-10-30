@@ -9,7 +9,7 @@
 
 ### Upcoming talk 🗣️
 
-- 2021-Oct-30 [#posobota](https://www.posobota.cz/stream) Překládej své React aplikace jako inženýr z FB 🇨🇿 [[DEMO](https://github.com/adeira/universe/pull/3375)] [[STREAM](https://www.posobota.cz/stream)] [[VIDEO](https://www.youtube.com/watch?v=DmrQuUbVILI)]
+- 2021-Oct-30 [#posobota](https://www.posobota.cz/stream) Překládej své React aplikace jako inženýr z FB 🇨🇿 [[DEMO](https://github.com/adeira/universe/pull/3375)] [[STREAM](https://youtu.be/IPqYKoylPlE)] [[VIDEO](https://www.youtube.com/watch?v=DmrQuUbVILI)]
 
 ### Latest talk 🗣️
 
