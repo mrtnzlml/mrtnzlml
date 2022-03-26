@@ -11,12 +11,11 @@
 ### Upcoming talk 🗣️
 
 - ...
--->
 
 ### Latest talks 🗣️
 
-- [#posobota](https://www.posobota.cz/stream) Překládej své React aplikace jako inženýr z FB 🇨🇿 [[DEMO](https://github.com/adeira/universe/pull/3375)] [[STREAM](https://youtu.be/IPqYKoylPlE)] [[VIDEO 1](https://www.youtube.com/watch?v=Ud470Uzh_Xw)] [[VIDEO 2](https://www.youtube.com/watch?v=DmrQuUbVILI)]
-- [React Conf Brasil 2021](https://reactconf.com.br/) Translate your React apps like Facebook engineers 🇬🇧 [[DEMO](https://github.com/adeira/universe/pull/3303)] [[STREAM](https://youtu.be/g7nyrdwRIFc)] [[VIDEO](https://youtu.be/wHUKA6lLOHQ)]
+- ...
+-->
 
 ---
 
